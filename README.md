@@ -1,16 +1,16 @@
-# MES StencilJig3D
+# MES-3DStencilJig
 ### ساخت فیکسچر سه‌بعدی برای نگه‌داشتن شابلن استنسیل استیل بدون فریم (Frameless Stainless Steel Stencil) روی برد مدار چاپی (PCB) و اعمال خمیر قلع
 
 <p dir="rtl" align="right"><b>نام فارسی پروژه:</b> ساخت فیکسچر با پرینتر سه‌بعدی برای نگه‌داشتن شابلن استنسیل استیل بدون فریم (Frameless Stainless Steel Stencil) روی برد مدار چاپی (PCB) و کشیدن خمیر قلع روی برد</p>
 
 <p align="center">
-  <img src="docs/stenciljig3d.JPG" alt="MES StencilJig3D - assembled stencil printing jig" width="520">
+  <img src="docs/stenciljig3d.JPG" alt="MES-3DStencilJig - assembled stencil printing jig" width="520">
 </p>
 
 <p align="center">
-  <b>A practical, adjustable 3D-printable jig for accurate manual solder-paste application on prototype and small-batch PCBs.</b>
+  <b>A fully 3D-printable, adjustable stencil jig for accurate manual solder-paste application on prototype and small-batch PCBs.</b>
   <br>
-  <b>فیکسچری کاربردی و قابل تنظیم برای اعمال دستی و دقیق خمیر قلع روی بردهای مدار چاپی، مناسب نمونه‌سازی و تولید در تیراژ محدود.</b>
+  <b>فیکسچر قابل چاپ سه‌بعدی و قابل تنظیم برای نگه‌داری و هم‌راستاسازی شابلن استنسیل و اعمال دستی و دقیق خمیر قلع روی بردهای مدار چاپی؛ مناسب نمونه‌سازی و تولید در تیراژ محدود.</b>
 </p>
 
 <p align="center">
@@ -40,7 +40,8 @@
 - دارای پایه با ابعاد اسمی **200 × 200 میلی‌متر**
 - استفاده از PCB Pusher متناسب با گروه ضخامت ریل‌ها
 - فایل‌های سه‌بعدی قطعات با فرمت STL در پوشه [3d](3d/)
-- تصاویر قطعات، نمای مونتاژ و متعلقات در پوشه [docs](docs/)
+- تصاویر قطعات و نمای فیکسچر در پوشه [docs](docs/)
+- ویدئوی مونتاژ و نمونه نتیجه اعمال خمیر قلع در پوشه [Video](Video/)
 
 ## تصاویر پروژه
 
@@ -92,8 +93,14 @@
 4. مهره‌های حرارتی M4، پیچ‌های دستی و پایه‌های لاستیکی را نصب کنید.
 5. PCB را روی پایه قرار دهید، شابلون را در موقعیت مناسب ثابت کنید و خمیر قلع را با کاردک (Squeegee) روی شابلون پخش کنید.
 
-- [مشاهده ویدئوی مونتاژ](https://www.instagram.com/maker.moekoe/reel/DBY5iGSNjgy/)
-- [مشاهده نمونه نتیجه چاپ خمیر قلع](https://www.instagram.com/maker.moekoe/reel/DBiVZ_9N4vV/)
+### ویدئوهای پروژه
+
+ویدئوهای زیر مستقیماً در مخزن MES قرار گرفته‌اند:
+
+- [مشاهده ویدئوی مونتاژ فیکسچر (Assembly.mp4)](Video/Assembly.mp4)
+- [مشاهده ویدئوی نمونه نتیجه اعمال خمیر قلع (Sample Result.mp4)](Video/Sample%20Result.mp4)
+
+برای دریافت هر ویدئو، روی لینک مربوط به آن کلیک کنید. بسته به مرورگر، فایل ممکن است در صفحه پخش شود یا برای دانلود باز شود.
 
 ## نکات چاپ سه‌بعدی
 
@@ -103,6 +110,7 @@
 
 - `3d/` — فایل‌های سه‌بعدی قطعات با فرمت STL
 - `docs/` — تصاویر پروژه و قطعات
+- `Video/` — ویدئوهای مونتاژ و نمونه نتیجه اعمال خمیر قلع
 - `README.md` — راهنمای فارسی و انگلیسی
 - `LICENSE` — مجوز MIT
 
@@ -114,7 +122,7 @@
 
 ## Project Overview
 
-**MES-StencilJig3D** is a 3D-printable mechanical jig designed to hold and align a stencil with a printed circuit board (PCB) during manual solder-paste application.
+**MES-3DStencilJig** is a 3D-printable mechanical jig designed to hold and align a stencil with a printed circuit board (PCB) during manual solder-paste application.
 
 The jig is intended for small, frameless stencils. Its three guide bars — **bar1**, **bar2**, and **bar_top** — can each be rotated by 180 degrees to accommodate two stencil thicknesses.
 
@@ -166,8 +174,14 @@ The following hardware is required in addition to the 3D-printed parts:
 4. Install the M4 heat-set inserts, knurled screws, and rubber feet.
 5. Place the PCB on the base, secure and align the stencil, then spread solder paste across the stencil using a squeegee.
 
-- [Watch the assembly video](https://www.instagram.com/maker.moekoe/reel/DBY5iGSNjgy/)
-- [Watch the solder-paste application result](https://www.instagram.com/maker.moekoe/reel/DBiVZ_9N4vV/)
+### Project Videos
+
+The following videos are included in this repository:
+
+- [Watch the jig assembly video (Assembly.mp4)](Video/Assembly.mp4)
+- [Watch the solder-paste application result (Sample Result.mp4)](Video/Sample%20Result.mp4)
+
+Depending on your browser, each link may open the video for playback or download.
 
 ## 3D Printing Notes
 
@@ -177,6 +191,7 @@ The original project notes specify **PLA-CF** filament in black and red. Exact s
 
 - `3d/` — STL files for the printable parts
 - `docs/` — Project and component photographs
+- `Video/` — Assembly and solder-paste application videos
 - `README.md` — Persian and English documentation
 - `LICENSE` — MIT license
 
@@ -189,7 +204,7 @@ This repository is based on [StencilJig3D by maker.moekoe](https://github.com/ma
 ## تصاویر و دیاگرام‌های راهنما
 
 <p align="center">
-  <img src="docs/stenciljig3d.JPG" alt="MES StencilJig3D" width="32%">
+  <img src="docs/stenciljig3d.JPG" alt="MES-3DStencilJig" width="32%">
   <img src="docs/stenciljig3d_bars.JPG" alt="Stencil guide bars" width="32%">
   <img src="docs/stenciljig3d_back.JPG" alt="Rear view" width="32%">
 </p>
