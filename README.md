@@ -1,4 +1,8 @@
 # MES-3DStencilJig
+
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Hero-Banner.svg" width="100%" alt="MEMAR ELECTRONIC SANAT — MES">
+</p>
 ### ساخت فیکسچر سه‌بعدی برای نگه‌داشتن شابلن استنسیل استیل بدون فریم (Frameless Stainless Steel Stencil) روی برد مدار چاپی (PCB) و اعمال خمیر قلع
 
 <p dir="rtl" align="right"><b>نام فارسی پروژه:</b> ساخت فیکسچر با پرینتر سه‌بعدی برای نگه‌داشتن شابلن استنسیل استیل بدون فریم (Frameless Stainless Steel Stencil) روی برد مدار چاپی (PCB) و کشیدن خمیر قلع روی برد</p>
@@ -19,6 +23,11 @@
 </p>
 
 ---
+
+
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Section-Header.svg" width="100%" alt="3D-Printed Stencil Jig Project Overview">
+</p>
 
 ## معرفی پروژه
 
@@ -53,6 +62,11 @@
 <p align="center">
   <img src="docs/stenciljig3d_bars.JPG" alt="ریل‌های راهنمای شابلون" width="48%">
   <img src="docs/stenciljig3d_bot.JPG" alt="نمای بخش زیرین" width="48%">
+</p>
+
+
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Project-Card.svg" width="100%" alt="3D Printable Parts, Hardware and Assembly">
 </p>
 
 ## فایل‌های پرینت سه‌بعدی
@@ -211,6 +225,11 @@ This repository is based on [StencilJig3D by maker.moekoe](https://github.com/ma
 
 ![MES Divider](Images/MES-Divider.svg)
 
+
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Status-Strip.svg" width="100%" alt="MES Engineering and 3D-Printed Tools">
+</p>
+
 ## تهیه و تدوین
 
 **معمار الکترونیک صنعت / MEMAR ELECTRONIC SANAT (MES)**
@@ -224,3 +243,8 @@ This repository is based on [StencilJig3D by maker.moekoe](https://github.com/ma
 ---
 
 *MES — Engineering, Electronics & 3D-Printed Tools*
+
+
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Thank-You-Footer.svg" width="100%" alt="Thank you for visiting MES">
+</p>
