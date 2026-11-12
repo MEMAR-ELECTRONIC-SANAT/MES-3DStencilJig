@@ -209,6 +209,8 @@ This repository is based on [StencilJig3D by maker.moekoe](https://github.com/ma
   <img src="docs/stenciljig3d_back.JPG" alt="Rear view" width="32%">
 </p>
 
+![MES Divider](Images/MES-Divider.svg)
+
 ## تهیه و تدوین
 
 **معمار الکترونیک صنعت / MEMAR ELECTRONIC SANAT (MES)**
