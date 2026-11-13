@@ -3,7 +3,7 @@
 <p align="center">
   <img src="Images/GitHub-Assets/MES-Hero-Banner.svg" width="100%" alt="MEMAR ELECTRONIC SANAT — MES">
 </p>
-### ساخت فیکسچر سه‌بعدی برای نگه‌داشتن شابلن استنسیل استیل بدون فریم (Frameless Stainless Steel Stencil) روی برد مدار چاپی (PCB) و اعمال خمیر قلع
+<h3 dir="rtl" align="right">ساخت فیکسچر سه‌بعدی برای نگه‌داشتن شابلن استنسیل استیل بدون فریم (Frameless Stainless Steel Stencil) روی برد مدار چاپی (PCB) و اعمال خمیر قلع</h3>
 
 <p dir="rtl" align="right"><b>نام فارسی پروژه:</b> ساخت فیکسچر با پرینتر سه‌بعدی برای نگه‌داشتن شابلن استنسیل استیل بدون فریم (Frameless Stainless Steel Stencil) روی برد مدار چاپی (PCB) و کشیدن خمیر قلع روی برد</p>
 
