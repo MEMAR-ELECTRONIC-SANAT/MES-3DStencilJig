@@ -223,7 +223,9 @@ This repository is based on [StencilJig3D by maker.moekoe](https://github.com/ma
   <img src="docs/stenciljig3d_back.JPG" alt="Rear view" width="32%">
 </p>
 
-![MES Divider](Images/MES-Divider.svg)
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Divider.svg" width="100%" alt="MES Divider">
+</p>
 
 
 <p align="center">
