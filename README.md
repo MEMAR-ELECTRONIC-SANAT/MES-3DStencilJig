@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/GitHub-Assets/MES_Animated_Logo_640x480.svg" width="360" alt="MES Animated Logo">
+
 </p>
 
 # MES-3DStencilJig
@@ -27,7 +27,6 @@
 </p>
 
 ---
-
 
 <p align="center">
   <img src="Images/GitHub-Assets/MES-Section-Header.svg" width="100%" alt="3D-Printed Stencil Jig Project Overview">
@@ -67,7 +66,6 @@
   <img src="docs/stenciljig3d_bars.JPG" alt="ریل‌های راهنمای شابلون" width="48%">
   <img src="docs/stenciljig3d_bot.JPG" alt="نمای بخش زیرین" width="48%">
 </p>
-
 
 <p align="center">
   <img src="Images/GitHub-Assets/MES-Project-Card.svg" width="100%" alt="3D Printable Parts, Hardware and Assembly">
@@ -231,7 +229,6 @@ This repository is based on [StencilJig3D by maker.moekoe](https://github.com/ma
   <img src="Images/GitHub-Assets/MES-Divider.svg" width="100%" alt="MES Divider">
 </p>
 
-
 <p align="center">
   <img src="Images/GitHub-Assets/MES-Status-Strip.svg" width="100%" alt="MES Engineering and 3D-Printed Tools">
 </p>
@@ -250,7 +247,8 @@ This repository is based on [StencilJig3D by maker.moekoe](https://github.com/ma
 
 *MES — Engineering, Electronics & 3D-Printed Tools*
 
-
 <p align="center">
   <img src="Images/GitHub-Assets/MES-Thank-You-Footer.svg" width="100%" alt="Thank you for visiting MES">
 </p>
+
+![MES Animated Logo](Images/GitHub-Assets/MES_Animated_Logo_640x480.svg)
