@@ -217,6 +217,32 @@ This repository is based on [StencilJig3D by maker.moekoe](https://github.com/ma
 
 ---
 
+## منبع اصلی و توضیحات ترجمه / Original Source and Translation Notice
+
+<div dir="rtl" align="right">
+
+طرح اصلی این پروژه با نام **StencilJig3D** توسط **maker.moekoe** ارائه شده است. مخزن حاضر، نسخه‌ای مشتق‌شده از پروژه اصلی است و منبع طرح، فایل‌های طراحی سه‌بعدی و ایده مکانیکی فیکسچر، مخزن اصلی زیر است:
+
+**منبع اصلی:** [makermoekoe/StencilJig3D](https://github.com/makermoekoe/StencilJig3D)
+
+در مخزن **MES-3DStencilJig**، توضیحات و راهنمای پروژه برای استفاده فارسی‌زبانان ترجمه و بازنویسی شده و مطالب به زبان فارسی و انگلیسی سازمان‌دهی شده‌اند. فایل‌های مدل سه‌بعدی (STL) و اجزای طرح، به‌عنوان محتوای مشتق‌شده از پروژه اصلی ارائه شده‌اند؛ بنابراین این مخزن ادعایی درباره طراحی مستقل یا مالکیت اولیه طرح مکانیکی ندارد.
+
+هنگام استفاده، بازنشر یا ایجاد نسخه‌های مشتق‌شده، لطفاً شرایط مجوز **MIT** و انتساب مؤلف اصلی را مطابق فایل [LICENSE](LICENSE) حفظ کنید. برای دریافت آخرین نسخه و بررسی تغییرات احتمالی طرح، به مخزن اصلی مراجعه کنید.
+
+</div>
+
+### Original Source and Translation Notice
+
+The original **StencilJig3D** design was created and published by **maker.moekoe**. This repository is a derivative version of that project. The original design, 3D model files, and mechanical concept are attributed to the upstream repository:
+
+**Original source:** [makermoekoe/StencilJig3D](https://github.com/makermoekoe/StencilJig3D)
+
+In **MES-3DStencilJig**, the project descriptions and user guidance have been translated and rewritten for Persian-speaking users, and the documentation has been organized in Persian and English. The 3D model files (STL) and design components are provided as derivative content based on the original project. MES does not claim original authorship or ownership of the underlying mechanical design.
+
+When using, redistributing, or creating derivative versions, retain the original author attribution and comply with the **MIT License** terms in the [LICENSE](LICENSE) file. Please refer to the upstream repository for the original project and its latest updates.
+
+---
+
 ## تصاویر و دیاگرام‌های راهنما
 
 <p align="center">
